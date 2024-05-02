@@ -1,3 +1,16 @@
+# Inodai Disaster Resilience Platform
+
+Welcome to the official repository for the Inodai Disaster Resilience Platform. Inodai is designed to enhance disaster preparedness and response through advanced AI technologies. Our platform offers predictive alerts, accessible disaster preparation information, mitigation strategies, and streamlined coordination to help communities, especially the underprivileged, better handle natural disasters.
+
+## Features
+
+- **Predictive Alerts:** Leverage real-time data to provide early warnings about potential disasters.
+- **Disaster Preparation:** Access comprehensive guidelines and tips for disaster readiness.
+- **Mitigation Strategies:** Implement effective strategies to reduce potential damage and ensure safety.
+- **Resource Mapping:** Utilize dynamic maps to locate evacuation sites and essential resources like food and shelters.
+- **AI Chatbot:** Get instant advice on disaster response through our AI-powered chatbot.
+
+
 ## Creating a KV Database Instance
 
 Update your environment variables (`KV_URL`, `KV_REST_API_URL`, `KV_REST_API_TOKEN`, `KV_REST_API_READ_ONLY_TOKEN`) in the `.env` file with the appropriate credentials provided during the KV database setup.
